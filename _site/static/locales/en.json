@@ -1,0 +1,55 @@
+{
+  "website":{
+    "title": "Jack's blog"
+  },
+  "nav":{
+    "home": "Home",
+    "chains": "Chains",
+    "advantage": "Advantage",
+    "users": "Users",
+    "features": "Features",
+    "blog": "Blog",
+    "link": "Link",
+    "docs": "Docs"
+  },
+  "chains":{
+    "chains": "Chains",
+    "des": "ChainCloud is a platform that can help you to connect your website or application with the most popular blockchain assets (Bitcoin, Ethereum, Litecoin, Dogecoin and so on)."
+  },
+  "advantage":{
+    "advantage": "Advantage"
+  },
+  "users":{
+    "users": "Users",
+    "RenRenBit": "Saplatform is a automated service for operations, it has asset management, project release, database access function, it can control mass servers.",
+    "BTC 123": "Jalpc is a simple, beautiful and swift theme for Jekyll. It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.",
+    "Yun Bi": "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well."
+  },
+  "features":{
+    "features": "Features",
+    "Cold Receiving API": "Cold Receiving API",
+    "Cold Receiving API_des": "123.",
+    "Cold Receiving API_date": "Apr. 2016",
+    "Cold Receiving API_job": "xiaolong",
+    "Hot Sending API": "Hot Sending API",
+    "Hot Sending API_des": "345.",
+    "Hot Sending API_date": "Jun. 2015",
+    "Hot Sending API_job": "xiaolong",
+    "Report API": "Report API",
+    "Report API_des": "456.",
+    "Report API_date": "Sep. 2013",
+    "Report API_job": "xiaolong",
+    "Cross Chain Exchange": "Cross Chain Exchange",
+    "Cross Chain Exchange_des": "567.",
+    "Cross Chain Exchange_date": "Jul. 2013",
+    "Cross Chain Exchange_job": "xiaolong"
+  },
+  "blog":{
+    "my_blog": "Blog"
+  },
+  "link":{
+    "link": "Link",
+    "view": "views"
+  }
+
+}

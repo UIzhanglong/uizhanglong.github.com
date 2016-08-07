@@ -1,0 +1,55 @@
+{
+  "website":{
+    "title": "杰克的博客"
+  },
+  "nav":{
+    "home": "首页",
+    "chains": "开放平台",
+    "advantage": "优势",
+    "users": "用户",
+    "features": "特性",
+    "blog": "博客",
+    "link": "友情链接",
+    "docs": "文档"
+  },
+  "chains":{
+    "chains": "开放平台",
+    "des": "企业级开放平台是一个能帮助用户连接自己的网站以及为客户提供最流行的blockchain资产管理的一个平台（如比特币，以太坊，莱特币，狗狗币等）。"
+  },
+  "advantage":{
+    "advantage": "优势"
+  },
+  "users":{
+    "users": "用户",
+    "RenRenBit": "Saplatform是一个自动化运维服务，包括资产管理、项目发布、数据库管理等功能,它可以管理大量服务器。",
+    "BTC 123": "Jalpc是一个非常简洁、漂亮和快速部署的Jekyll主题，它非常小巧但是影响很广，能非常好的适应所有设备。",
+    "Yun Bi": "这是一个Angularjs写的前端应用，使用Jelyll部署在github的gh-pages上，后台使用Leancloud，你也可以使用Parse。"
+  },
+  "features":{
+    "features": "特性",
+    "Cold Receiving API": "冷接收API",
+    "Cold Receiving API_des": "123.",
+    "Cold Receiving API_date": "2016年4月",
+    "Cold Receiving API_job": "小龙",
+    "Hot Sending API": "热接收API",
+    "Hot Sending API_des": "345.",
+    "Hot Sending API_date": "2015年6月",
+    "Hot Sending API_job": "小龙",
+    "Report API": "报告API",
+    "Report API_des": "456.",
+    "Report API_date": "2013年9月",
+    "Report API_job": "小龙",
+    "Cross Chain Exchange": "交叉链交换",
+    "Cross Chain Exchange_des": "567.",
+    "Cross Chain Exchange_date": "2013年7月",
+    "Cross Chain Exchange_job": "小龙"
+  },
+  "blog":{
+    "my_blog": "博客"
+  },
+  "link":{
+    "link": "友情链接",
+    "view": "次访问"
+  }
+
+}
