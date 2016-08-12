@@ -4,23 +4,23 @@
   },
   "nav":{
     "home": "首页",
-    "multichains": "多种区块链资产",
-    "advantage": "优势",
-    "users": "用户",
+    "chains": "区块链",
+    "advantages": "优势",
+    "clients": "用户",
     "features": "特性",
     "blog": "博客",
     "link": "联系方式",
     "docs": "文档"
   },
-  "multichains":{
-    "multichains": "多种区块链资产",
+  "chains":{
+    "chains": "多种区块链资产",
     "des": "企业级开放平台是一个能帮助用户连接自己的网站以及为客户提供最流行的blockchain资产管理的一个平台（如比特币，以太坊，莱特币，狗狗币等）。"
   },
-  "advantage":{
-    "advantage": "优势"
+  "advantages":{
+    "advantages": "优势"
   },
-  "users":{
-    "users": "用户",
+  "clients":{
+    "clients": "用户",
     "RenRenBit": "人人比特是国内目前最大的比特币场外交易平台，独立运营比特币快捷交易，买卖实时到账，方便快捷。广受圈内好评。",
     "BTC 123": "BTC123是一家综合性比特币导航信息网站。收录关于比特币的优秀网站，提供比特币实时行情， 价格K线，以及相关数据查询，资讯，信息，是业内最受欢迎的比特币网站之一。",
     "Yun Bi": "虚位以待，期待您的加入！"
