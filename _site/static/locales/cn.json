@@ -28,21 +28,21 @@
   "features":{
     "features": "特性",
     "Cold Receiving API": "冷接收API",
-    "Cold Receiving API_des": "123.",
+    "Cold Receiving API_des": "您可以使用此API来监视你所有的冷接收地址.",
     "Cold Receiving API_date": "2016年4月",
-    "Cold Receiving API_job": "小龙",
+    "Cold Receiving API_job": "",
     "Hot Sending API": "热接收API",
-    "Hot Sending API_des": "345.",
+    "Hot Sending API_des": "易用.",
     "Hot Sending API_date": "2015年6月",
-    "Hot Sending API_job": "小龙",
+    "Hot Sending API_job": "",
     "Report API": "报告API",
-    "Report API_des": "456.",
+    "Report API_des": "实用.",
     "Report API_date": "2013年9月",
-    "Report API_job": "小龙",
+    "Report API_job": "",
     "Cross Chain Exchange": "交叉链交换",
-    "Cross Chain Exchange_des": "567.",
+    "Cross Chain Exchange_des": "HSM意味着硬件安全模块。我们特别设计了两HSM模块来构建牢不可破的安全blockchain云平台.",
     "Cross Chain Exchange_date": "2013年7月",
-    "Cross Chain Exchange_job": "小龙"
+    "Cross Chain Exchange_job": ""
   },
   "blog":{
     "my_blog": "博客"
