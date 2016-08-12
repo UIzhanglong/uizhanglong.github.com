@@ -4,7 +4,7 @@
   },
   "nav":{
     "home": "Home",
-    "chains": "Chains",
+    "multichains": "Multichains",
     "advantage": "Advantage",
     "users": "Users",
     "features": "Features",
@@ -12,8 +12,8 @@
     "link": "Link",
     "docs": "Docs"
   },
-  "chains":{
-    "chains": "Chains",
+  "multichains":{
+    "multichains": "Multichains",
     "des": "ChainCloud is a platform that can help you to connect your website or application with the most popular blockchain assets (Bitcoin, Ethereum, Litecoin, Dogecoin and so on)."
   },
   "advantage":{

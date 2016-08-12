@@ -4,7 +4,7 @@
   },
   "nav":{
     "home": "首页",
-    "chains": "开放平台",
+    "multichains": "多种区块链资产",
     "advantage": "优势",
     "users": "用户",
     "features": "特性",
@@ -12,8 +12,8 @@
     "link": "联系方式",
     "docs": "文档"
   },
-  "chains":{
-    "chains": "开放平台",
+  "multichains":{
+    "multichains": "多种区块链资产",
     "des": "企业级开放平台是一个能帮助用户连接自己的网站以及为客户提供最流行的blockchain资产管理的一个平台（如比特币，以太坊，莱特币，狗狗币等）。"
   },
   "advantage":{
