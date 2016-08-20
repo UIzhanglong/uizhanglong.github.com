@@ -14,35 +14,35 @@
   },
   "chains":{
     "chains": "多种区块链资产",
-    "des": "企业级开放平台是一个能帮助用户连接自己的网站以及为客户提供最流行的blockchain资产管理的一个平台（如比特币，以太坊，莱特币，狗狗币等）。"
+    "des": "企业级开放平台是一个能帮助用户连接自己的网站以及为客户提供最流行的blockchain资产管理的一个平台 如:比特币，以太坊，莱特币，狗狗币等。"
   },
   "advantages":{
     "advantages": "优势"
   },
   "clients":{
     "clients": "用户",
-    "RenRenBit": "人人比特是国内目前最大的比特币场外交易平台，独立运营比特币快捷交易，买卖实时到账，方便快捷。广受圈内好评。",
-    "BTC123": "BTC123是一家综合性比特币导航信息网站。收录关于比特币的优秀网站，提供比特币实时行情， 价格K线，以及相关数据查询，资讯，信息，是业内最受欢迎的比特币网站之一。",
-    "Yun Bi": "虚位以待，期待您的加入！"
+    "RenRenBit": "人人比特是一家快捷买卖比特币的强大交易平台。",
+    "BTC123": "BTC123是一家最流行的收录关于比特币的优秀网站，提供比特币实时行情／价格K线，信息以及相关数据查询的综合性比特币网站。",
+    "Yun Bi": "更多"
   },
   "features":{
     "features": "特性",
     "Cold Receiving API": "冷接收API",
-    "Cold Receiving API_des": "您可以使用此API来监视你所有的冷接收地址.",
+    "Cold Receiving API_des": "您可以轻松的通过安全方式获取成千上万个冷收款地址并监控相关地址的交易.",
     "Cold Receiving API_date": "2016年4月",
     "Cold Receiving API_job": "",
     "Hot Sending API": "热接收API",
-    "Hot Sending API_des": "易用.",
+    "Hot Sending API_des": "通过这种‘明冷实热’的钱包解决方案，您可以安全的进行实时提币或者支付客户的服务.",
     "Hot Sending API_date": "2015年6月",
     "Hot Sending API_job": "",
-    "Report API": "报告API",
-    "Report API_des": "实用.",
-    "Report API_date": "2013年9月",
-    "Report API_job": "",
-    "Cross Chain Exchange": "交叉链交换",
-    "Cross Chain Exchange_des": "HSM意味着硬件安全模块。我们特别设计了两HSM模块来构建牢不可破的安全blockchain云平台.",
-    "Cross Chain Exchange_date": "2013年7月",
-    "Cross Chain Exchange_job": ""
+    "Alert System": "报警系统",
+    "Alert System_des": "ChainCloud有着一套完善而又复杂的警报系统，能快速，有效地提醒管理员.",
+    "Alert System_date": "2013年9月",
+    "Alert System_job": "",
+    "Financial Report": "财务报表",
+    "Financial Report_des": "通过完善的报告，您可以轻松验证系统的财务数据，并定期审计.",
+    "Financial Report_date": "2013年7月",
+    "Financial Report_job": ""
   },
   "blog":{
     "my_blog": "博客"
