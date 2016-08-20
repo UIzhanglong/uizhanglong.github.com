@@ -10,7 +10,7 @@
     "features": "特性",
     "blog": "博客",
     "link": "联系方式",
-    "docs": "文档"
+    "doc": "文档"
   },
   "chains":{
     "chains": "多种区块链资产",
@@ -31,7 +31,7 @@
     "Cold Receiving API_des": "您可以轻松的通过安全方式获取成千上万个冷收款地址并监控相关地址的交易.",
     "Cold Receiving API_date": "COLD",
     "Cold Receiving API_job": "",
-    "Hot Sending API": "热接收API",
+    "Hot Sending API": "热发送API",
     "Hot Sending API_des": "通过这种‘明冷实热’的钱包解决方案，您可以安全的进行实时提币或者支付客户的服务.",
     "Hot Sending API_date": "HOT",
     "Hot Sending API_job": "",

@@ -10,7 +10,7 @@
     "features": "Feature",
     "blog": "Blog",
     "link": "Link",
-    "docs": "Docs"
+    "doc": "Doc"
   },
   "chains":{
     "chains": "Multiple Chains",
