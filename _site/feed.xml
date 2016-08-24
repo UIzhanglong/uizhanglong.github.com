@@ -3,10 +3,10 @@
   <channel>
     <title>chaincloud</title>
     <description>chaincloud&#39;s blog,use Jekyll and github pages.</description>
-    <link>http://www.jack003.com//</link>
-    <atom:link href="http://www.jack003.com//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Aug 2016 11:01:05 +0800</pubDate>
-    <lastBuildDate>Wed, 24 Aug 2016 11:01:05 +0800</lastBuildDate>
+    <link>http://uizhanglong.github.com//</link>
+    <atom:link href="http://uizhanglong.github.com//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 24 Aug 2016 13:01:29 +0800</pubDate>
+    <lastBuildDate>Wed, 24 Aug 2016 13:01:29 +0800</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -30,7 +30,7 @@
 &lt;p&gt;网站和文档都是开源托管在 github.com 上的，用户可随时查阅版本历史。&lt;/p&gt;
 
 &lt;p&gt;首先，让我们先来看一下 &lt;strong&gt;ChainCloud&lt;/strong&gt; 平台的系统架构，ChainCloud 架构图如下：
-&lt;img src=&quot;http://docs.chaincloud.com/en/latest/_images/chaincloud-architecture.jpg&quot; alt=&quot;ChainCloud框架图&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://uizhanglong.github.com/static/img/blog/picture/2.jpg&quot; alt=&quot;ChainCloud框架图&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;该图中，您可以看到如下内容：&lt;/p&gt;
 
@@ -105,8 +105,8 @@
 &lt;p&gt;这就是一开始提到的“二次验证”机制，让企业在使用 ChainCloud API 的时候也相当于有了谷歌二次验证。&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Aug 2016 00:00:00 +0800</pubDate>
-        <link>http://www.jack003.com//tec2016/08/23/blog.html</link>
-        <guid isPermaLink="true">http://www.jack003.com//tec2016/08/23/blog.html</guid>
+        <link>http://uizhanglong.github.com//tec2016/08/23/blog.html</link>
+        <guid isPermaLink="true">http://uizhanglong.github.com//tec2016/08/23/blog.html</guid>
         
         <category>bitcoin</category>
         
@@ -127,7 +127,7 @@
 
 &lt;p&gt;除了冷存储的保管好一个私钥、每个月可能会有那么一两次离线签名的需求外，就没什么其他的工作要做的了，从工作量的角度上讲其成本近乎为零，而且我们在冷存储、离线签名领域本身就是行业内最优秀的团队，这项工作的安全风险也近乎为零；&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://7fvhfe.com1.z0.glb.clouddn.com/wp-content/uploads/2016/08/refuse-to-pay.jpg&quot; alt=&quot;拒绝&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://uizhanglong.github.com/static/img/blog/picture/1.jpg&quot; alt=&quot;拒绝&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;好了，既然评估的结果是“&lt;strong&gt;&lt;em&gt;营收稳定、工作简单、低成本、低风险&lt;/em&gt;&lt;/strong&gt;”，那还有什么好想的？&lt;/p&gt;
 
@@ -170,8 +170,8 @@
 &lt;p&gt;我们只做逻辑上合理的生意，谢谢！&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Aug 2016 00:00:00 +0800</pubDate>
-        <link>http://www.jack003.com//business/2016/08/10/blog.html</link>
-        <guid isPermaLink="true">http://www.jack003.com//business/2016/08/10/blog.html</guid>
+        <link>http://uizhanglong.github.com//business/2016/08/10/blog.html</link>
+        <guid isPermaLink="true">http://uizhanglong.github.com//business/2016/08/10/blog.html</guid>
         
         <category>bitcoin</category>
         
