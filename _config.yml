@@ -57,7 +57,7 @@ project:
 
 # blog index
 index:
-  home: 'Home'
+  home: 'Blog'
   python: 'Python'
   linux: 'Linux'
   html: 'HTML'
